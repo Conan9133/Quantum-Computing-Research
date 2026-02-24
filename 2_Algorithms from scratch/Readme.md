@@ -19,7 +19,9 @@ Each subfolder includes:
 | ✅ HHL Algorithm | Quantum linear systems solver — to be built from basic gates |
 | ✅ Quantum Adders (coming soon) | Circuit-based binary adders using quantum logic | 
 | ✅ VQLS | Variational Quantum Linear Solver — variational approach from scratch |
-| ✅ VQE (coming soon) | Variational Quantum Eigensolver  |
+| ✅ VQLS for Linear Pendulum |
+| ✅ VQLS for non-linear Pendulum |
+| ✅ Testing VQLS Limitations |
 | ✅ QAOA (coming soon) | Quantum Approximate Optimization Algorithm -    |
 
 ## 🛠 How to Run
