@@ -11,8 +11,7 @@ This is a personal learning repository where I document my progress in quantum c
 
 - `1_basics_and_qiskit_workflow/`: Foundational concepts, Qiskit basics, gates, measurements.
 - `2_algorithms_from_scratch/`: Manual construction of QFT, QPE, HHL, VQLS and others.
-- `3_algorithms_using_libraries/`: Implementations using Qiskit’s built-in modules.
-- `4_applications_and_examples/`: Real-world or illustrative projects like quantum teleportation, QRNG, etc.
+- `3_applications_and_examples/`: Real-world or illustrative projects like quantum teleportation, QRNG, etc.
 
 ## 🧠 Learning Goals
 
