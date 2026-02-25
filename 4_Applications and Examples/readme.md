@@ -10,9 +10,14 @@ This section will explore **practical applications** of quantum computing and sh
 - Machine learning basics (e.g., quantum classifiers)
 - Running circuits on real IBM quantum hardware
 
-## 📌 Status
+## 🚀 Implemented Algorithms
 
-🚧 This section is under construction. Notebooks and use-cases will be added soon.
+| Algorithm | Description |
+|----------|-------------|
+| ✅ VQLS for Linear Pendulum |
+| ✅ VQLS for non-linear Pendulum |
+| ✅ Testing VQLS Limitations |
+| ✅ QAOA (coming soon) | QAOA for real-world problems    |
 
 ## 💡 How This Will Be Used
 
