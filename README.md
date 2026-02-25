@@ -1,4 +1,4 @@
-# Quantum Computing Journey 🧠⚛️
+# Quantum Computing Research 🧠⚛️
 
 This is a personal learning repository where I document my progress in quantum computing, starting from fundamentals to implementing real quantum algorithms using Qiskit.
 
