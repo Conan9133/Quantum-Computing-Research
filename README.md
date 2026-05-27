@@ -11,7 +11,7 @@ This is a personal learning repository where I document my progress in quantum c
 
 - `1_basics_and_qiskit_workflow/`: Foundational concepts, Qiskit basics, gates, measurements.
 - `2_algorithms_from_scratch/`: Manual construction of QFT, QPE, HHL, VQLS and others.
-- `3_applications_and_examples/`: Real-world or illustrative projects like quantum teleportation, QRNG, etc.
+- `3_Quantum_algorithms_for_differential_equations/`: Applications of Quantum algorithms for solving differential equations
 
 ## 🧠 Learning Goals
 
@@ -32,8 +32,8 @@ This is a personal learning repository where I document my progress in quantum c
 
 ## ✍️ Author
 Narasimha Reddy
-Theoretical Physicist | Quantum Computing Enthusiast | Bayesian Learner
-📍 Based in Canada | 💻 Working on Quantum Algorithms, QFTs, and Machine Learning
+Quantum Computing Researcher | Theoretical Physicist | Bayesian Learner
+📍 Based in Canada | 💻 Working on Quantum Algorithms and their applications to Scientific Computing
 
 ## 🤝 Contributions
 This is a personal learning project. You’re welcome to fork, clone, and adapt the content. Feel free to:
