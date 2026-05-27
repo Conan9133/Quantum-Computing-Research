@@ -13,7 +13,7 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 | `03_nonlinear_ode_linearization_methods.ipynb` | Classical exploration of explicit, Newton, Carleman, and Koopman-type linearization methods. |
 | `04_VQLS_limitations_noiseless.ipynb` | Noiseless VQLS limitations: condition number, cost functions, ansatz depth, and residuals. |
 | `05_classical_LBM_D1Q3_diffusion.ipynb` | Classical D1Q3 lattice Boltzmann method for diffusion. |
-| `06_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. | Under preparation
+| `06_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. (Under preparation) |
 | `07_LCU_linear_and_nonlinear_pendulum.ipynb` | Under preparation
 | `08_Block_encoding_linear_and_nonlinear_pendulum.ipynb` | Under preparation
 
