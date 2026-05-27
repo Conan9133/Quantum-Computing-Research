@@ -2,18 +2,21 @@
 
 This folder contains exploratory implementations of quantum algorithms for differential equations and dynamical systems, with a focus on VQLS-based time stepping.
 
-The goal is not to claim quantum advantage, but to study how VQLS behaves as a local linear solver inside time-stepping algorithms and to identify limitations such as conditioning, cost-function choice, ansatz design, optimizer behavior, nonlinear error accumulation, and output/readout constraints.
+The goal is not to claim quantum advantage, but to study how VQLS behaves as a local linear solver inside time-stepping algorithms and to identify limitations such as conditioning, cost-function choice, ansatz design, optimizer behaviour, nonlinear error accumulation, and output/readout constraints.
 
 ## Contents
 
 | Notebook | Description |
 |---|---|
-| `01_vqls_linear_pendulum.ipynb` | VQLS-based time stepping for the linear pendulum. |
-| `02_vqls_nonlinear_pendulum.ipynb` | Nonlinear pendulum using stepwise treatment of the nonlinear term. |
+| `01_VQLS_linear_pendulum.ipynb` | VQLS-based time stepping for the linear pendulum. |
+| `02_VQLS_nonlinear_pendulum.ipynb` | Nonlinear pendulum using stepwise treatment of the nonlinear term. |
 | `03_nonlinear_ode_linearization_methods.ipynb` | Classical exploration of explicit, Newton, Carleman, and Koopman-type linearization methods. |
-| `04_vqls_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
-| `05_vqls_limitations_noiseless.ipynb` | Noiseless VQLS limitations: condition number, cost functions, ansatz depth, and residuals. |
-| `06_classical_lbm_d1q3_diffusion.ipynb` | Classical D1Q3 lattice Boltzmann method for diffusion. |
+| `04_VQLS_limitations_noiseless.ipynb` | Noiseless VQLS limitations: condition number, cost functions, ansatz depth, and residuals. |
+| `05_classical_LBM_D1Q3_diffusion.ipynb` | Classical D1Q3 lattice Boltzmann method for diffusion. |
+| `06_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. | Under preparation
+| `07_LCU_linear_and_nonlinear_pendulum.ipynb` | Under preparation
+| `08_Block_encoding_linear_and_nonlinear_pendulum.ipynb` | Under preparation
+
 
 ## Main lessons
 
