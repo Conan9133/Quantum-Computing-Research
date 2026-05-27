@@ -31,8 +31,7 @@ This is a personal learning repository where I document my progress in quantum c
 - JupyterLab
 
 ## ✍️ Author
-Narasimha Reddy
-Quantum Computing Researcher | Theoretical Physicist | Bayesian Learner
+Narasimha Gosala | Quantum Computing Researcher | Theoretical Physicist | Bayesian Learner
 📍 Based in Canada | 💻 Working on Quantum Algorithms and their applications to Scientific Computing
 
 ## 🤝 Contributions
