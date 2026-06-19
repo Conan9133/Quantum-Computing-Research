@@ -33,11 +33,13 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 - Full statevector reconstruction is used only for small-scale validation and is not scalable.
 - Scalable quantum differential-equation algorithms should focus on observable extraction or methods that avoid full readout.
 
-## Scope and limitations
+## Scope, limitations and acknowledgements
 
 These notebooks are small-scale exploratory studies. They are intended to validate formulations, compare diagnostics, and understand algorithmic limitations of VQLS-based time stepping.
 
 They do not demonstrate quantum advantage. In the current simulations, full statevector reconstruction is used for validation because the systems are small. For large-scale quantum algorithms, one would need to extract selected observables or functionals of the solution state, rather than reconstructing the full solution vector.
+
+The notebooks on LCU and Block-encoding methods benefited from discussions within our summer research group. In particular, Diego's notes helped me understand the circuit-level implementation of the LCU and the block-encoding methods. The implementation and presentation here were written independently, and any errors or interpretations are my own.
 
 ## Requirements
 
@@ -56,7 +58,4 @@ A typical installation is:
 ```bash
 pip install numpy scipy pandas matplotlib qiskit qiskit-aer
 
-## Acknowledgement
-
-The notebooks on LCU and Block-encoding methods benefited from discussions within our summer research group. Especially, Diego's notes helped me understand the circuit-level implementation of the LCU and block-encoding methods. The implementation and presentation here were written independently, and any errors or interpretations are my own.
 
