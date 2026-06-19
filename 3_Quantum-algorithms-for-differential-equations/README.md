@@ -55,3 +55,8 @@ A typical installation is:
 
 ```bash
 pip install numpy scipy pandas matplotlib qiskit qiskit-aer
+
+## Acknowledgement
+
+The notebooks on LCU and Block-encoding methods benefited from discussions within our summer research group. Especially, Diego's notes helped me understand the circuit-level implementation of the LCU and block-encoding methods. The implementation and presentation here were written independently, and any errors or interpretations are my own.
+
