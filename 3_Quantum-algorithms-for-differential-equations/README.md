@@ -13,14 +13,15 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 | `03_nonlinear_ode_linearization_methods.ipynb` | Classical exploration of explicit stepwise methods, Newton iteration, Carleman linearization, and Koopman-type linearization. |
 | `04_VQLS_limitations_noiseless.ipynb` | Noiseless VQLS limitations: condition number, cost functions, ansatz depth, residuals, and optimizer behaviour. |
 | `05_classical_LBM_D1Q3_diffusion.ipynb` | Classical D1Q3 lattice Boltzmann method for diffusion, implemented to understand the collision-streaming structure. |
+| `06_LCU_linear_pendulum.ipynb` | Linear Combination of Unitarities (LCU)-based operator-evolution methods for Linear pendulum. |
 
 ## Under preparation
 
 | Notebook | Description |
 |---|---|
-| `06_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
-| `07_LCU_linear_and_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
-| `08_Block_encoding_linear_and_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for linear and nonlinear pendulum examples. |
+| `07_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
+| `08_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
+| `09_Block_encoding_linear_and_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for linear and nonlinear pendulum examples. |
 
 ## Main lessons
 
