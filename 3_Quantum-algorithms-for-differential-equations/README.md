@@ -20,9 +20,9 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 
 | Notebook | Description |
 |---|---|
-| `07_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
-| `08_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
-| `09_Block_encoding_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for linear and nonlinear pendulum examples. |
+| `08_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
+| `09_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
+| `10_Block_encoding_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for linear and nonlinear pendulum examples. |
 
 ## Main lessons
 
