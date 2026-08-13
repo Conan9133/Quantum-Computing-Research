@@ -13,16 +13,18 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 | `03_nonlinear_ode_linearization_methods.ipynb` | Classical exploration of explicit stepwise methods, Newton iteration, Carleman linearization, and Koopman-type linearization. |
 | `04_VQLS_limitations_noiseless.ipynb` | Noiseless VQLS limitations: condition number, cost functions, ansatz depth, residuals, and optimizer behaviour. |
 | `05_classical_LBM_D1Q3_diffusion.ipynb` | Classical D1Q3 lattice Boltzmann method for diffusion, implemented to understand the collision-streaming structure. |
-| `06_LCU_linear_pendulum.ipynb` | Linear Combination of Unitarities (LCU)-based operator-evolution methods for Linear pendulum. |
+| `06_LCU_linear_pendulum.ipynb` | Linear Combination of Unitarities (LCU)-based operator-evolution methods for the linear pendulum. |
 | `07_Manual_block_encoding_linear_pendulum.ipynb` | Manual block encoding of the forward-Euler update matrix for the linear pendulum. Includes explicit unitary dilation, statevector branch extraction, measurement/QST reconstruction, and finite-shot error diagnostics. |
+| `08_Naive_Oracle_block_encoding_linear_pendulum.ipynb` | Naive Oracle block encoding of the forward-Euler update matrix for the linear pendulum |
 
 ## Under preparation
 
 | Notebook | Description |
 |---|---|
-| `08_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
-| `09_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
-| `10_Block_encoding_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for linear and nonlinear pendulum examples. |
+| `09_FABLE_Block_encoding_linear_pendulum.ipynb` | Block-encoding-based approach, FABLE for linear pendulum example. |
+| `10_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
+| `11_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
+| `12_Block_encoding_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for nonlinear pendulum examples. |
 
 ## Main lessons
 
