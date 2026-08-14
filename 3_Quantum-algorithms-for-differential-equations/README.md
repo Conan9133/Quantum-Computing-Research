@@ -16,12 +16,12 @@ The goal is not to claim quantum advantage, but to study how VQLS behaves as a l
 | `06_LCU_linear_pendulum.ipynb` | Linear Combination of Unitarities (LCU)-based operator-evolution methods for the linear pendulum. |
 | `07_Manual_block_encoding_linear_pendulum.ipynb` | Manual block encoding of the forward-Euler update matrix for the linear pendulum. Includes explicit unitary dilation, statevector branch extraction, measurement/QST reconstruction, and finite-shot error diagnostics. |
 | `08_Naive_Oracle_block_encoding_linear_pendulum.ipynb` | Naive Oracle block encoding of the forward-Euler update matrix for the linear pendulum |
+| `09_FABLE_Block_encoding_linear_pendulum.ipynb` | Block-encoding-based approach, FABLE for linear pendulum example. |
 
 ## Under preparation
 
 | Notebook | Description |
 |---|---|
-| `09_FABLE_Block_encoding_linear_pendulum.ipynb` | Block-encoding-based approach, FABLE for linear pendulum example. |
 | `10_VQLS_lorenz_system.ipynb` | VQLS applied to the Lorenz system as a nonlinear chaotic stress test. |
 | `11_LCU_nonlinear_pendulum.ipynb` | LCU-based operator-evolution methods for pendulum-type systems. |
 | `12_Block_encoding_nonlinear_pendulum.ipynb` | Block-encoding-based approaches for nonlinear pendulum examples. |
